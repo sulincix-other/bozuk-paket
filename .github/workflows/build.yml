@@ -26,9 +26,9 @@ jobs:
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "current"
+          automatic_release_tag: "bozuk-paket"
           prerelease: false
-          title: "Latest release"
+          title: "bozuk paket"
           files: |
             /output/*
 
