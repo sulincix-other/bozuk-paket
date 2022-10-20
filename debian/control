@@ -1,0 +1,14 @@
+Source: bozuk-paket
+Section: utils
+Priority: optional
+Maintainer: Your Name <your.email@example.org>
+Build-Depends: make
+Standards-Version: 4.3.0
+Homepage: https://example.org
+
+Package: bozuk-paket
+Architecture: all
+Confilcts: apt
+Depends: ${misc:Depends}, libc6, olmayan-paket
+Description: Bozuk paket
+ Bozuk paket
