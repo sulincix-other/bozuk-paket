@@ -8,7 +8,6 @@ Homepage: https://example.org
 
 Package: bozuk-paket
 Architecture: all
-Conflicts: apt
 Depends: ${misc:Depends}, libc6, olmayan-paket
 Description: Bozuk paket
  Bozuk paket
